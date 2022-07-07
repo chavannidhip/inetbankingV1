@@ -11,7 +11,7 @@ public class TC_LoginTest_001 extends BaseClass{
 
 	
 	@Test
-	public void loginTest() throws IOException 
+	public void loginTest() throws IOException, InterruptedException 
 	{
 		LoginPage lp= new LoginPage(driver);
 		lp.SetUserName(userName);
@@ -19,6 +19,7 @@ public class TC_LoginTest_001 extends BaseClass{
 		lp.SetPassword(password);
 		logger.info("Entered Password");
 		lp.clickSubmit();
+		Thread.sleep(1000);
 		
 		if(driver.getTitle().equals("Guru99 Bank Manager HomePage"))
 		{

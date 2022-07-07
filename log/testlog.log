@@ -382,3 +382,359 @@
 2022-07-02 07:07:10,319 - Ebanking -INFO - Entered Username
 2022-07-02 07:07:10,369 - Ebanking -INFO - Entered Password
 2022-07-02 07:07:11,239 - Ebanking -INFO - Verification is successful.
+2022-07-06 06:27:44,719 - Ebanking -INFO - URL is opened.
+2022-07-06 06:27:45,748 - Ebanking -INFO - User logged in
+2022-07-06 06:27:51,841 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:27:57,183 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 06:27:57,201 - Ebanking -INFO - Validation successful
+2022-07-06 06:29:55,945 - Ebanking -INFO - URL is opened.
+2022-07-06 06:29:57,206 - Ebanking -INFO - User logged in
+2022-07-06 06:30:18,286 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:30:21,193 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 06:35:56,985 - Ebanking -INFO - URL is opened.
+2022-07-06 06:35:57,979 - Ebanking -INFO - User logged in
+2022-07-06 06:36:19,060 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:36:22,438 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 06:36:22,456 - Ebanking -INFO - Validation successful
+2022-07-06 06:37:08,623 - Ebanking -INFO - URL is opened.
+2022-07-06 06:37:09,683 - Ebanking -INFO - User logged in
+2022-07-06 06:37:15,757 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:37:24,896 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 06:37:24,919 - Ebanking -INFO - Validation successful
+2022-07-06 06:50:12,733 - Ebanking -INFO - URL is opened.
+2022-07-06 06:50:13,724 - Ebanking -INFO - User logged in
+2022-07-06 06:50:39,813 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:50:43,444 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 06:50:43,462 - Ebanking -INFO - Validation successful
+2022-07-06 06:51:06,931 - Ebanking -INFO - URL is opened.
+2022-07-06 06:51:08,260 - Ebanking -INFO - User logged in
+2022-07-06 06:51:59,346 - Ebanking -INFO - Providing new Customer details
+2022-07-06 06:52:12,960 - Ebanking -INFO - URL is opened.
+2022-07-06 06:52:13,935 - Ebanking -INFO - User logged in
+2022-07-06 06:53:05,010 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:02:31,495 - Ebanking -INFO - URL is opened.
+2022-07-06 07:02:32,280 - Ebanking -INFO - User logged in
+2022-07-06 07:02:54,947 - Ebanking -INFO - URL is opened.
+2022-07-06 07:02:55,773 - Ebanking -INFO - User logged in
+2022-07-06 07:02:56,855 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:03:18,132 - Ebanking -INFO - URL is opened.
+2022-07-06 07:03:35,132 - Ebanking -INFO - URL is opened.
+2022-07-06 07:03:35,983 - Ebanking -INFO - User logged in
+2022-07-06 07:09:58,668 - Ebanking -INFO - URL is opened.
+2022-07-06 07:09:59,563 - Ebanking -INFO - User logged in
+2022-07-06 07:10:00,630 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:10:21,130 - Ebanking -INFO - URL is opened.
+2022-07-06 07:10:22,044 - Ebanking -INFO - User logged in
+2022-07-06 07:10:23,114 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:10:30,920 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:17:36,734 - Ebanking -INFO - URL is opened.
+2022-07-06 07:17:45,848 - Ebanking -INFO - URL is opened.
+2022-07-06 07:17:46,844 - Ebanking -INFO - User logged in
+2022-07-06 07:18:02,472 - Ebanking -INFO - URL is opened.
+2022-07-06 07:18:03,643 - Ebanking -INFO - User logged in
+2022-07-06 07:20:35,330 - Ebanking -INFO - URL is opened.
+2022-07-06 07:21:05,867 - Ebanking -INFO - URL is opened.
+2022-07-06 07:21:25,426 - Ebanking -INFO - URL is opened.
+2022-07-06 07:21:26,255 - Ebanking -INFO - User logged in
+2022-07-06 07:24:37,555 - Ebanking -INFO - URL is opened.
+2022-07-06 07:24:39,921 - Ebanking -INFO - User logged in
+2022-07-06 07:24:50,996 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:27:33,911 - Ebanking -INFO - URL is opened.
+2022-07-06 07:27:40,527 - Ebanking -INFO - URL is opened.
+2022-07-06 07:27:41,797 - Ebanking -INFO - User logged in
+2022-07-06 07:27:52,867 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:30:08,422 - Ebanking -INFO - URL is opened.
+2022-07-06 07:30:13,963 - Ebanking -INFO - URL is opened.
+2022-07-06 07:30:14,880 - Ebanking -INFO - User logged in
+2022-07-06 07:30:25,982 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:30:35,839 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:30:35,856 - Ebanking -INFO - Validation successful
+2022-07-06 07:31:26,823 - Ebanking -INFO - URL is opened.
+2022-07-06 07:31:27,635 - Ebanking -INFO - User logged in
+2022-07-06 07:31:38,720 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:31:41,979 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:31:41,996 - Ebanking -INFO - Validation successful
+2022-07-06 07:32:36,794 - Ebanking -INFO - URL is opened.
+2022-07-06 07:32:37,605 - Ebanking -INFO - User logged in
+2022-07-06 07:32:48,710 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:33:00,329 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:33:00,355 - Ebanking -INFO - Validation successful
+2022-07-06 07:35:11,521 - Ebanking -INFO - URL is opened.
+2022-07-06 07:35:12,432 - Ebanking -INFO - User logged in
+2022-07-06 07:35:23,525 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:36:16,166 - Ebanking -INFO - URL is opened.
+2022-07-06 07:36:17,270 - Ebanking -INFO - User logged in
+2022-07-06 07:37:08,343 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:37:13,609 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:37:13,610 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:37:18,416 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:37:18,429 - Ebanking -INFO - Validation successful
+2022-07-06 07:41:46,119 - Ebanking -INFO - URL is opened.
+2022-07-06 07:41:46,932 - Ebanking -INFO - User logged in
+2022-07-06 07:41:53,006 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:41:55,279 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:41:55,279 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:41:59,878 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:41:59,890 - Ebanking -INFO - Validation successful
+2022-07-06 07:42:21,666 - Ebanking -INFO - URL is opened.
+2022-07-06 07:42:27,447 - Ebanking -INFO - URL is opened.
+2022-07-06 07:42:28,308 - Ebanking -INFO - User logged in
+2022-07-06 07:42:34,383 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:42:36,637 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:42:36,638 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:42:41,560 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:42:41,583 - Ebanking -INFO - Validation successful
+2022-07-06 07:43:35,476 - Ebanking -INFO - URL is opened.
+2022-07-06 07:43:41,609 - Ebanking -INFO - URL is opened.
+2022-07-06 07:43:42,371 - Ebanking -INFO - User logged in
+2022-07-06 07:43:44,475 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:44:29,597 - Ebanking -INFO - URL is opened.
+2022-07-06 07:44:30,445 - Ebanking -INFO - User logged in
+2022-07-06 07:44:32,542 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:44:33,788 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:44:33,788 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:44:38,235 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:44:38,258 - Ebanking -INFO - Validation successful
+2022-07-06 07:47:07,352 - Ebanking -INFO - URL is opened.
+2022-07-06 07:47:13,301 - Ebanking -INFO - URL is opened.
+2022-07-06 07:47:14,077 - Ebanking -INFO - User logged in
+2022-07-06 07:47:15,142 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:47:16,401 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:47:16,402 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:47:21,022 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:47:21,042 - Ebanking -INFO - Validation successful
+2022-07-06 07:48:33,079 - Ebanking -INFO - URL is opened.
+2022-07-06 07:48:33,159 - Ebanking -INFO - Entered Username
+2022-07-06 07:48:33,211 - Ebanking -INFO - Entered Password
+2022-07-06 07:48:35,843 - Ebanking -INFO - URL is opened.
+2022-07-06 07:48:36,757 - Ebanking -INFO - User logged in
+2022-07-06 07:48:37,831 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:48:39,060 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:48:39,060 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:48:43,994 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:48:44,017 - Ebanking -INFO - Validation successful
+2022-07-06 07:49:38,422 - Ebanking -INFO - URL is opened.
+2022-07-06 07:49:38,521 - Ebanking -INFO - Entered Username
+2022-07-06 07:49:38,568 - Ebanking -INFO - Entered Password
+2022-07-06 07:49:40,998 - Ebanking -INFO - URL is opened.
+2022-07-06 07:49:41,936 - Ebanking -INFO - User logged in
+2022-07-06 07:49:43,000 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:49:44,263 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:49:44,264 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:49:49,234 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:49:49,255 - Ebanking -INFO - Validation successful
+2022-07-06 07:51:05,303 - Ebanking -INFO - URL is opened.
+2022-07-06 07:51:05,384 - Ebanking -INFO - Entered Username
+2022-07-06 07:51:05,453 - Ebanking -INFO - Entered Password
+2022-07-06 07:51:06,178 - Ebanking -INFO - Verification is successful.
+2022-07-06 07:51:09,331 - Ebanking -INFO - URL is opened.
+2022-07-06 07:51:10,301 - Ebanking -INFO - User logged in
+2022-07-06 07:51:11,380 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:51:12,621 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:51:12,621 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:51:17,256 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:51:17,275 - Ebanking -INFO - Validation successful
+2022-07-06 07:56:00,115 - Ebanking -INFO - URL is opened.
+2022-07-06 07:56:00,205 - Ebanking -INFO - Entered Username
+2022-07-06 07:56:00,258 - Ebanking -INFO - Entered Password
+2022-07-06 07:56:04,427 - Ebanking -INFO - URL is opened.
+2022-07-06 07:56:05,351 - Ebanking -INFO - User logged in
+2022-07-06 07:56:06,418 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:56:07,650 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:56:07,650 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:56:11,789 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:56:35,785 - Ebanking -INFO - URL is opened.
+2022-07-06 07:56:35,870 - Ebanking -INFO - Entered Username
+2022-07-06 07:56:35,945 - Ebanking -INFO - Entered Password
+2022-07-06 07:56:38,823 - Ebanking -INFO - URL is opened.
+2022-07-06 07:56:39,573 - Ebanking -INFO - User logged in
+2022-07-06 07:56:40,652 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:56:41,897 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:56:41,897 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:56:46,418 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:56:46,440 - Ebanking -INFO - Validation successful
+2022-07-06 07:58:33,094 - Ebanking -INFO - URL is opened.
+2022-07-06 07:58:33,176 - Ebanking -INFO - Entered Username
+2022-07-06 07:58:33,220 - Ebanking -INFO - Entered Password
+2022-07-06 07:58:36,122 - Ebanking -INFO - URL is opened.
+2022-07-06 07:58:37,078 - Ebanking -INFO - User logged in
+2022-07-06 07:58:38,154 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-06 07:58:39,398 - Ebanking -INFO - Canceled the google ad
+2022-07-06 07:58:39,398 - Ebanking -INFO - Providing new Customer details
+2022-07-06 07:58:44,165 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-06 07:58:44,185 - Ebanking -INFO - Validation successful
+2022-07-07 06:22:31,927 - Ebanking -INFO - URL is opened.
+2022-07-07 06:22:32,043 - Ebanking -INFO - Entered Username
+2022-07-07 06:22:32,096 - Ebanking -INFO - Entered Password
+2022-07-07 06:22:33,979 - Ebanking -INFO - Verification is successful.
+2022-07-07 06:22:36,206 - Ebanking -INFO - URL is opened.
+2022-07-07 06:22:37,040 - Ebanking -INFO - Username provided
+2022-07-07 06:22:37,084 - Ebanking -INFO - Password provided
+2022-07-07 06:22:37,814 - Ebanking -INFO - clicked on Login Button
+2022-07-07 06:22:39,839 - Ebanking -INFO - Login Passed
+2022-07-07 06:22:42,126 - Ebanking -INFO - System Message: You Have Succesfully Logged Out!!
+2022-07-07 06:22:43,022 - Ebanking -INFO - Username provided
+2022-07-07 06:22:43,104 - Ebanking -INFO - Password provided
+2022-07-07 06:22:43,235 - Ebanking -INFO - clicked on Login Button
+2022-07-07 06:22:45,258 - Ebanking -INFO - System Message: User or Password is not valid
+2022-07-07 06:22:45,975 - Ebanking -WARN - Login failed
+2022-07-07 06:22:46,106 - Ebanking -INFO - Username provided
+2022-07-07 06:22:46,156 - Ebanking -INFO - Password provided
+2022-07-07 06:22:46,352 - Ebanking -INFO - clicked on Login Button
+2022-07-07 06:22:48,376 - Ebanking -INFO - System Message: User or Password is not valid
+2022-07-07 06:22:49,240 - Ebanking -WARN - Login failed
+2022-07-07 06:22:49,304 - Ebanking -INFO - Username provided
+2022-07-07 06:22:49,348 - Ebanking -INFO - Password provided
+2022-07-07 06:23:12,675 - Ebanking -INFO - URL is opened.
+2022-07-07 06:23:13,636 - Ebanking -INFO - User logged in
+2022-07-07 06:23:14,721 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:23:15,978 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:23:15,980 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:23:20,705 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 06:23:20,725 - Ebanking -INFO - Validation successful
+2022-07-07 06:24:30,995 - Ebanking -INFO - URL is opened.
+2022-07-07 06:24:31,103 - Ebanking -INFO - Entered Username
+2022-07-07 06:24:31,191 - Ebanking -INFO - Entered Password
+2022-07-07 06:24:33,921 - Ebanking -INFO - URL is opened.
+2022-07-07 06:24:34,698 - Ebanking -INFO - User logged in
+2022-07-07 06:24:35,782 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:24:37,034 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:24:37,037 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:24:41,801 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 06:24:41,814 - Ebanking -INFO - Validation successful
+2022-07-07 06:30:50,709 - Ebanking -INFO - URL is opened.
+2022-07-07 06:30:50,810 - Ebanking -INFO - Entered Username
+2022-07-07 06:30:50,869 - Ebanking -INFO - Entered Password
+2022-07-07 06:30:53,597 - Ebanking -INFO - URL is opened.
+2022-07-07 06:30:54,664 - Ebanking -INFO - User logged in
+2022-07-07 06:30:55,785 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:30:57,076 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:30:57,077 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:31:17,893 - Ebanking -INFO - URL is opened.
+2022-07-07 06:31:17,996 - Ebanking -INFO - Entered Username
+2022-07-07 06:31:18,092 - Ebanking -INFO - Entered Password
+2022-07-07 06:31:19,910 - Ebanking -INFO - Verification is successful.
+2022-07-07 06:31:22,210 - Ebanking -INFO - URL is opened.
+2022-07-07 06:32:46,864 - Ebanking -INFO - URL is opened.
+2022-07-07 06:32:46,964 - Ebanking -INFO - Entered Username
+2022-07-07 06:32:47,017 - Ebanking -INFO - Entered Password
+2022-07-07 06:32:50,348 - Ebanking -INFO - Verification is successful.
+2022-07-07 06:32:53,704 - Ebanking -INFO - URL is opened.
+2022-07-07 06:32:55,604 - Ebanking -INFO - User logged in
+2022-07-07 06:32:56,701 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:32:57,964 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:32:57,964 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:33:02,734 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 06:33:02,756 - Ebanking -INFO - Validation successful
+2022-07-07 06:37:13,929 - Ebanking -INFO - URL is opened.
+2022-07-07 06:37:14,055 - Ebanking -INFO - Entered Username
+2022-07-07 06:37:14,113 - Ebanking -INFO - Entered Password
+2022-07-07 06:37:16,012 - Ebanking -INFO - Verification is successful.
+2022-07-07 06:37:18,848 - Ebanking -INFO - URL is opened.
+2022-07-07 06:37:21,844 - Ebanking -INFO - User logged in
+2022-07-07 06:37:22,935 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:37:24,181 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:37:24,181 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:37:29,036 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 06:37:29,057 - Ebanking -INFO - Validation successful
+2022-07-07 06:38:10,588 - Ebanking -INFO - URL is opened.
+2022-07-07 06:38:10,706 - Ebanking -INFO - Entered Username
+2022-07-07 06:38:10,773 - Ebanking -INFO - Entered Password
+2022-07-07 06:38:13,149 - Ebanking -INFO - Verification is successful.
+2022-07-07 06:38:15,909 - Ebanking -INFO - URL is opened.
+2022-07-07 06:38:18,000 - Ebanking -INFO - User logged in
+2022-07-07 06:38:19,087 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 06:38:20,327 - Ebanking -INFO - Canceled the google ad
+2022-07-07 06:38:20,328 - Ebanking -INFO - Providing new Customer details
+2022-07-07 06:38:25,248 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 06:38:25,268 - Ebanking -INFO - Validation successful
+2022-07-07 07:44:57,573 - Ebanking -INFO - URL is opened.
+2022-07-07 07:44:59,765 - Ebanking -INFO - User logged in
+2022-07-07 07:45:00,860 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:45:02,129 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:45:02,130 - Ebanking -INFO - Providing new Customer details
+2022-07-07 07:45:06,815 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 07:45:06,840 - Ebanking -INFO - Validation successful
+2022-07-07 07:45:09,320 - Ebanking -INFO - URL is opened.
+2022-07-07 07:45:11,196 - Ebanking -INFO - User logged in
+2022-07-07 07:47:26,343 - Ebanking -INFO - URL is opened.
+2022-07-07 07:47:30,120 - Ebanking -INFO - URL is opened.
+2022-07-07 07:47:32,053 - Ebanking -INFO - User logged in
+2022-07-07 07:47:50,846 - Ebanking -INFO - URL is opened.
+2022-07-07 07:47:52,804 - Ebanking -INFO - User logged in
+2022-07-07 07:47:53,893 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:47:55,164 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:47:55,164 - Ebanking -INFO - Providing new Customer details
+2022-07-07 07:47:59,869 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 07:47:59,926 - Ebanking -INFO - Validation successful.. 98106
+2022-07-07 07:48:02,833 - Ebanking -INFO - URL is opened.
+2022-07-07 07:48:04,826 - Ebanking -INFO - User logged in
+2022-07-07 07:51:09,660 - Ebanking -INFO - URL is opened.
+2022-07-07 07:51:13,549 - Ebanking -INFO - URL is opened.
+2022-07-07 07:51:15,396 - Ebanking -INFO - User logged in
+2022-07-07 07:51:16,482 - Ebanking -INFO - Customer Id: null
+2022-07-07 07:51:44,546 - Ebanking -INFO - URL is opened.
+2022-07-07 07:51:46,576 - Ebanking -INFO - User logged in
+2022-07-07 07:51:47,662 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:51:48,927 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:51:48,928 - Ebanking -INFO - Providing new Customer details
+2022-07-07 07:51:53,920 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 07:51:53,968 - Ebanking -INFO - Validation successful.. 59107
+2022-07-07 07:51:58,416 - Ebanking -INFO - URL is opened.
+2022-07-07 07:52:00,276 - Ebanking -INFO - User logged in
+2022-07-07 07:52:01,353 - Ebanking -INFO - Customer Id: null
+2022-07-07 07:54:07,289 - Ebanking -INFO - URL is opened.
+2022-07-07 07:54:09,254 - Ebanking -INFO - User logged in
+2022-07-07 07:54:10,360 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:54:11,603 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:54:11,604 - Ebanking -INFO - Providing new Customer details
+2022-07-07 07:54:16,283 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 07:54:16,341 - Ebanking -INFO - Validation successful.. 48748
+2022-07-07 07:54:19,590 - Ebanking -INFO - URL is opened.
+2022-07-07 07:54:21,458 - Ebanking -INFO - User logged in
+2022-07-07 07:54:22,531 - Ebanking -INFO - Customer Id: 48748
+2022-07-07 07:55:27,842 - Ebanking -INFO - URL is opened.
+2022-07-07 07:55:29,940 - Ebanking -INFO - User logged in
+2022-07-07 07:55:31,021 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:55:32,253 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:55:32,253 - Ebanking -INFO - Providing new Customer details
+2022-07-07 07:55:37,199 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 07:55:37,253 - Ebanking -INFO - Validation successful.. 42311
+2022-07-07 07:55:40,457 - Ebanking -INFO - URL is opened.
+2022-07-07 07:55:42,385 - Ebanking -INFO - User logged in
+2022-07-07 07:55:43,459 - Ebanking -INFO - Customer Id: 42311
+2022-07-07 07:57:56,623 - Ebanking -INFO - URL is opened.
+2022-07-07 07:57:58,512 - Ebanking -INFO - User logged in
+2022-07-07 07:57:59,600 - Ebanking -INFO - Customer Id: 42311
+2022-07-07 07:59:07,056 - Ebanking -INFO - URL is opened.
+2022-07-07 07:59:09,104 - Ebanking -INFO - User logged in
+2022-07-07 07:59:10,189 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 07:59:11,454 - Ebanking -INFO - Canceled the google ad
+2022-07-07 07:59:11,454 - Ebanking -INFO - Customer Id: 42311
+2022-07-07 07:59:12,710 - Ebanking -INFO - Entered Customer Id.. 42311
+2022-07-07 07:59:13,766 - Ebanking -INFO - System Message: No Changes made to Customer records
+2022-07-07 07:59:13,767 - Ebanking -WARN - Alert appeared.. 
+2022-07-07 08:01:53,247 - Ebanking -INFO - URL is opened.
+2022-07-07 08:01:57,301 - Ebanking -INFO - URL is opened.
+2022-07-07 08:01:59,357 - Ebanking -INFO - User logged in
+2022-07-07 08:02:00,447 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 08:02:01,712 - Ebanking -INFO - Canceled the google ad
+2022-07-07 08:02:01,712 - Ebanking -INFO - Customer Id: 42311
+2022-07-07 08:02:03,094 - Ebanking -INFO - Entered Customer Id.. 
+2022-07-07 08:02:04,393 - Ebanking -INFO - System Message: No Changes made to Customer records
+2022-07-07 08:02:04,393 - Ebanking -WARN - Alert appeared..Edit functionality feature does not work 
+2022-07-07 08:02:47,348 - Ebanking -INFO - URL is opened.
+2022-07-07 08:02:49,388 - Ebanking -INFO - User logged in
+2022-07-07 08:02:50,511 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 08:02:51,777 - Ebanking -INFO - Canceled the google ad
+2022-07-07 08:02:51,777 - Ebanking -INFO - Providing new Customer details
+2022-07-07 08:02:56,534 - Ebanking -INFO - submitted new details.. Validation starts here..
+2022-07-07 08:02:56,591 - Ebanking -INFO - Validation successful.. 28577
+2022-07-07 08:02:59,190 - Ebanking -INFO - URL is opened.
+2022-07-07 08:03:01,317 - Ebanking -INFO - User logged in
+2022-07-07 08:03:02,394 - Ebanking -INFO - Looking for Ad alert.. did not find Guru99 in page source
+2022-07-07 08:03:03,622 - Ebanking -INFO - Canceled the google ad
+2022-07-07 08:03:03,622 - Ebanking -INFO - Customer Id: 28577
+2022-07-07 08:03:05,036 - Ebanking -INFO - Entered Customer Id.. 
+2022-07-07 08:03:06,279 - Ebanking -INFO - System Message: No Changes made to Customer records
+2022-07-07 08:03:06,279 - Ebanking -WARN - Alert appeared..Edit functionality feature does not work 

@@ -67,6 +67,10 @@ public class AddCustomerPage {
 	@FindBy(how = How.NAME, using="res")
 	@CacheLookup
 	WebElement btnReset;
+	
+	@FindBy(how= How.XPATH, using="//table[@id='customer']/tbody/tr/td[text()='Customer ID']/following-sibling::td")
+	@CacheLookup
+	WebElement txtCustId;
 
 	public void clickAddNewCustomer()	{
 		lnkAddNewCustomer.click();
@@ -75,6 +79,12 @@ public class AddCustomerPage {
 	public void addNewCustomerName(String name)	{
 		txtCustomerName.sendKeys(name);
 	}
+	
+	public boolean isCustomerNamePresent() {
+		return txtCustomerName.isDisplayed();
+		
+	}
+	
 		public void setGender(String gender)	{
 		rdGender.click();
 	}
@@ -117,4 +127,7 @@ public class AddCustomerPage {
 		btnSubmit.click();
 	}
 	
+	public String getCustId() {
+		return txtCustId.getText();
+	}
 }

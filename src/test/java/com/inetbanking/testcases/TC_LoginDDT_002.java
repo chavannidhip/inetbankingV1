@@ -46,21 +46,6 @@ public class TC_LoginDDT_002 extends BaseClass
 
 	}
 
-	// Invalid scenario - User defined method for checking presence of Alert
-	public boolean isAlertPresent()
-	{
-		try
-		{
-			driver.switchTo().alert();
-			logger.info("System Message: "+ driver.switchTo().alert().getText());
-			return true;
-		}
-		catch(NoAlertPresentException e)
-		{
-			return false;
-		}
-	}
-
 
 	@DataProvider(name="loginData")
 	String[][] getData() throws IOException

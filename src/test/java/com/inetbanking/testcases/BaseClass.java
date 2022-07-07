@@ -8,10 +8,12 @@ import org.apache.commons.io.FileUtils;
 import org.apache.commons.lang3.RandomStringUtils;
 import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
+import org.openqa.selenium.NoAlertPresentException;
 import org.openqa.selenium.OutputType;
 import org.openqa.selenium.TakesScreenshot;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.chrome.ChromeDriver;
+import org.openqa.selenium.interactions.Actions;
 import org.testng.annotations.AfterClass;
 import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Parameters;
@@ -29,6 +31,8 @@ public class BaseClass {
 	public static WebDriver driver;
 	public static Logger logger;
 
+	public static String newCustId;
+	
 	@Parameters("browser")
 	@BeforeClass
 	public void setup(String br) {
@@ -76,4 +80,34 @@ public class BaseClass {
 		return RandomStringUtils.randomNumeric(4);
 	}
 
+	public void cancelAdIfPresent() throws InterruptedException {
+		if(driver.getPageSource().contains("robot"))
+		{
+			// it means no webpage of Guru99 website.. now close the ad
+			logger.info("Looking for Ad alert.. did not find Guru99 in page source");
+			//driver.switchTo().defaultContent();
+			Actions act = new Actions(driver);
+			act.moveByOffset(100, 100);
+			Thread.sleep(1000);
+			act.click().build().perform();
+			logger.info("Canceled the google ad");
+		}
+	}
+	
+	// Invalid scenario - User defined method for checking presence of Alert
+	public boolean isAlertPresent()
+	{
+		try
+		{
+			driver.switchTo().alert();
+			logger.info("System Message: "+ driver.switchTo().alert().getText());
+			return true;
+		}
+		catch(NoAlertPresentException e)
+		{
+			return false;
+		}
+	}
+
 }
+
